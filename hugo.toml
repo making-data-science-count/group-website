@@ -26,13 +26,9 @@ subtitle = "Welcome! We are the Making Data Science Count (MDSC) Research Group 
   pageRef = '/people.html'
   weight = 30
 [[menu.main]]
-  name = 'Grants'
-  pageRef = '/grants.html'
-  weight = 40
-[[menu.main]]
   name = 'Contact'
   pageRef = '/contact.html'
-  weight = 50
+  weight = 40
 
 [params.buttons]
 -name = "Archive"
