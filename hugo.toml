@@ -7,6 +7,10 @@ theme = 'PaperMod'
 enabled = true
 title = "Making Data Science Count Research Group"
 subtitle = "Welcome! We are the Making Data Science Count (MDSC) Research Group at the University of Tennessee, Knoxville!"
+imageUrl = "logotest.png"
+imageTitle = "Lab Logo"
+imageWidth = 250
+imageHeight = 250
 
 [taxonomies]
   themes = 'themes'
