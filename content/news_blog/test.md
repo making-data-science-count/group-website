@@ -1,6 +1,6 @@
 ---
-title: "test"
-date: 2023-07-15T09:03:20-08:00
-slug: test
+title: "Lab Lunch and Headshot"
+date: 2023-011-21T09:03:20-08:00
+slug: lablunch
 draft: false
 ---

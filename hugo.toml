@@ -18,8 +18,8 @@ imageHeight = 250
 
 [menu]
 [[menu.main]]
-  name = 'Home'
-  pageRef = '/home.html'
+  name = 'About'
+  pageRef = '/about.html'
   weight = 10
 [[menu.main]]
   name = 'Projects'
