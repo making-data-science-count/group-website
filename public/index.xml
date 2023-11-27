@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Making Data Science Count Research Group</title>
+    <link>/</link>
+    <description>Recent content on Making Data Science Count Research Group</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About MDSC Research Group</title>
+      <link>/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description> xxx </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/contact/</guid>
+      <description> xxx </description>
+    </item>
+    
+    <item>
+      <title>Current Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/</guid>
+      <description> xxx </description>
+    </item>
+    
+    <item>
+      <title>People</title>
+      <link>/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/people/</guid>
+      <description> Leadership
+Joshua M. Rosenberg Director
+University of Tennessee, Knoxville
+Email: example@org.com
+Hanhui Bao PhD Student
+University of Tennessee, Knoxville email example@org.com </description>
+    </item>
+    
+  </channel>
+</rss>

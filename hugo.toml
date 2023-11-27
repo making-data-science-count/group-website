@@ -1,0 +1,49 @@
+baseURL = 'makingdatasciencecount.github.io'
+languageCode = 'en-us'
+title = 'Making Data Science Count Research Group'
+theme = 'PaperMod'
+
+[params.ProfileMode]
+enabled = true
+title = "Making Data Science Count Research Group"
+subtitle = "Welcome! We are the Making Data Science Count (MDSC) Research Group at the University of Tennessee, Knoxville!"
+imageUrl = "logotest.png"
+imageTitle = "Lab Logo"
+imageWidth = 250
+imageHeight = 250
+
+[taxonomies]
+  themes = 'themes'
+  tags = 'tags'
+
+[menu]
+[[menu.main]]
+  name = 'About'
+  pageRef = '/about.html'
+  weight = 10
+[[menu.main]]
+  name = 'Projects'
+  pageRef = '/projects.html'
+  weight = 20
+[[menu.main]]
+  name = 'People'
+  pageRef = '/people.html'
+  weight = 40
+[[menu.main]]
+  name = 'Contact'
+  pageRef = '/contact.html'
+  weight = 50
+[[menu.main]]
+  name = 'Publications'
+  pageRef = '/publication.html'
+  weight = 30
+
+[params.buttons]
+-name = "Archive"
+url = "/archive/"
+
+[params.cover]
+linkFullImages = true
+
+[params]
+description = "MDSC research group homepage"
