@@ -2,18 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/home/</loc>
+    <loc>makingdatasciencecount.github.io/about/</loc>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>makingdatasciencecount.github.io/cs-for-appalachia/</loc>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>makingdatasciencecount.github.io/contact/</loc>
   </url><url>
-    <loc>/</loc>
+    <loc>makingdatasciencecount.github.io/projects/</loc>
   </url><url>
-    <loc>/people/</loc>
+    <loc>makingdatasciencecount.github.io/esm-undergrad-stemed/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>makingdatasciencecount.github.io/news_blog/23-11-21-lablunch/</loc>
   </url><url>
-    <loc>/themes/</loc>
+    <loc>makingdatasciencecount.github.io/</loc>
+  </url><url>
+    <loc>makingdatasciencecount.github.io/news_blog/</loc>
+  </url><url>
+    <loc>makingdatasciencecount.github.io/people/</loc>
+  </url><url>
+    <loc>makingdatasciencecount.github.io/project_credible/</loc>
+  </url><url>
+    <loc>makingdatasciencecount.github.io/publication/</loc>
+  </url><url>
+    <loc>makingdatasciencecount.github.io/self_reflection_in_csed/</loc>
+  </url><url>
+    <loc>makingdatasciencecount.github.io/sensitivity-analysis/</loc>
+  </url><url>
+    <loc>makingdatasciencecount.github.io/social_media_privacy/</loc>
+  </url><url>
+    <loc>makingdatasciencecount.github.io/tags/</loc>
+  </url><url>
+    <loc>makingdatasciencecount.github.io/themes/</loc>
+  </url><url>
+    <loc>makingdatasciencecount.github.io/audiovisual_data/</loc>
   </url>
 </urlset>

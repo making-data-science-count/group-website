@@ -2,49 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Making Data Science Count Research Group</title>
-    <link>/</link>
+    <link>makingdatasciencecount.github.io/</link>
     <description>Recent content on Making Data Science Count Research Group</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="makingdatasciencecount.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About MDSC Research Group</title>
-      <link>/home/</link>
+      <link>makingdatasciencecount.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/</guid>
-      <description> xxx </description>
+      <guid>makingdatasciencecount.github.io/about/</guid>
+      <description>The mission of the MDSC research group is to leverage the collective efforts of its members to study science education, computer and data science education, and educational technology–and other domains. This group will be dynamic and inclusive in its work (due to the expertise members bring and valuing of that expertise). The group studies both K-12 and post-secondary and informal learning and uses a variety of theoretical and methodological approaches to do so.</description>
+    </item>
+    
+    <item>
+      <title>Computer Science for Appalachia (CSA)</title>
+      <link>makingdatasciencecount.github.io/cs-for-appalachia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>makingdatasciencecount.github.io/cs-for-appalachia/</guid>
+      <description>Project Introduction The Computer Science for Appalachia (CSA) project is a NSF funded project (award number: 1923509). It addresses the challenge of providing meaningful computer science (CS) learning experiences in East Tennessee school districts, particularly in the context of new CS standards for the state. Implemented in 2019, CSA aims to create a vision for CS education, offering support for teachers to plan and implement responsive CS strategies in rural East Tennessee schools.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>makingdatasciencecount.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/contact/</guid>
-      <description> xxx </description>
+      <guid>makingdatasciencecount.github.io/contact/</guid>
+      <description>Current Graduate Students: Current graduate students in UT who want to participate in the research projects may contact Dr. Joshua Rosenberg.
+Prospective Graduate Students: Prosepctive graduate students may consider apply for graduate programs in education. Undergraduates: Undergradaute students who want to participate in the research projects are welcome to apply to be a RA. You may contact Dr. Joshua Rosenberg or the PI listed in the specific project page. Browse the current project list.</description>
     </item>
     
     <item>
       <title>Current Projects</title>
-      <link>/projects/</link>
+      <link>makingdatasciencecount.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/projects/</guid>
-      <description> xxx </description>
+      <guid>makingdatasciencecount.github.io/projects/</guid>
+      <description>Social Media and Student Privacy Project The research examines the sharing of Personally Identifiable Information (PII) by U.S. educational institutions on social media (X, formerly Twitter), with the goal of assessing potential privacy risks to students. Self-reflection in CS Education This project aims to understand how students develop their process of working on computer science projects, and testing a new approach to help CS students. This project is a collaboration between UTK and Pellissippi State Community College (PSCC), and is funded by the National Science Foundation.</description>
+    </item>
+    
+    <item>
+      <title>ESM and Undergraduate STEM education</title>
+      <link>makingdatasciencecount.github.io/esm-undergrad-stemed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>makingdatasciencecount.github.io/esm-undergrad-stemed/</guid>
+      <description>Project Introduction This project is using an intensive longitudinal survey method - experience sampling - to explore how levels of anxiety change over time in introductory biology classes and how anxiety may impact final grade. People Maryrose Weatherton
+Joshua Rosenberg News To be continued.</description>
+    </item>
+    
+    <item>
+      <title>Lab Lunch and Headshot</title>
+      <link>makingdatasciencecount.github.io/news_blog/23-11-21-lablunch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>makingdatasciencecount.github.io/news_blog/23-11-21-lablunch/</guid>
+      <description>Part of our reserach group had a lovely lunch and took some photos on 11/21. We looked back this semester and looked forward to the near future, talking about the highlights/stress/challenges. Everyone is in different stages and has different goals, but the good news is that we can always find someone to look for advice and support. All conversations are relaxing but thought-provoking, just like the vibe of our lab.</description>
     </item>
     
     <item>
       <title>People</title>
-      <link>/people/</link>
+      <link>makingdatasciencecount.github.io/people/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/people/</guid>
-      <description> Leadership
-Joshua M. Rosenberg Director
-University of Tennessee, Knoxville
-Email: example@org.com
-Hanhui Bao PhD Student
-University of Tennessee, Knoxville email example@org.com </description>
+      <guid>makingdatasciencecount.github.io/people/</guid>
+      <description>Director Researcher Postdoctoral Scholar Affiliated Faculty Doctoral Students Research Assistant Director
+Joshua M. Rosenberg, Ph.D. Associate Professor Department: Theory &amp; Practice in Teacher Education Email: jmrosenberg@utk.edu Personal website: https://joshuamrosenberg.com/
+Researcher Sarah Narvaiz, Ph.D. Bio: Sarah received her PhD in Educational Psychology and Research at the University of Tennessee. Her research interests include survey research, psychometrics, QuantCrit methods, and supporting underserved and underrepresented populations. Sarah enjoys powerlifting and helping her community.</description>
+    </item>
+    
+    <item>
+      <title>Project CREDIBLE</title>
+      <link>makingdatasciencecount.github.io/project_credible/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>makingdatasciencecount.github.io/project_credible/</guid>
+      <description>Project Introduction The full title of the project is: Creatively Reimagining Engagements with Data in Biology Learning Environments. It is a NSF CAREER project beginning August 1, 2023. Project Credible aims to address the disconnect between students&#39; data-intensive activities and their understanding of core science concepts. By integrating advances in cognitive science, data science, Bayesian data analysis, and science curricular standards, the project plans to offer practical tools and teaching strategies for high school biology teachers.</description>
+    </item>
+    
+    <item>
+      <title>Publications &amp; Conferences</title>
+      <link>makingdatasciencecount.github.io/publication/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>makingdatasciencecount.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-reflection in Computer Science Education</title>
+      <link>makingdatasciencecount.github.io/self_reflection_in_csed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>makingdatasciencecount.github.io/self_reflection_in_csed/</guid>
+      <description>Project Introduction This is a NSF-funded project (award number: 2215245) . The full title of the study is: Broadening Participation in Introductory Computer Science: Investigating Self-Assessment Practices for Increasing Student Learning and Self-Efficacy in Two Institutional Contexts. The purpose is to understand how students develop their process of working on computer science projects, and to test a new approach to help students. This project is a collaboration between UTK and Pellissippi State Community College (PSCC).</description>
+    </item>
+    
+    <item>
+      <title>Sensitivity Analaysis</title>
+      <link>makingdatasciencecount.github.io/sensitivity-analysis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>makingdatasciencecount.github.io/sensitivity-analysis/</guid>
+      <description>Project Introduction This paper serves as an introduction and overview of the konfound() R package, which is a sensitivity analysis tool designed to quantify the robustness of causal inferences. It also provides an overview of two core functions within the package: konfound() and pkonfound(). The project’s primary objective is to advance, extend, and apply existing sensitivity analysis techniques in a manner most beneficial to education research and practice. Specifically, our research team aims to expand the Impact Threshold for a Confounding Variable (ITCV) and the Robustness of Inference to Replacement (RIR) approaches to various research designs and features, including those involving differential attrition, moderation analyses, and regression discontinuity designs.</description>
+    </item>
+    
+    <item>
+      <title>Social Media and Student Privacy</title>
+      <link>makingdatasciencecount.github.io/social_media_privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>makingdatasciencecount.github.io/social_media_privacy/</guid>
+      <description>Project Introduction Our research focuses on the sharing of Personally Identifiable Information (PII) by educational institutions on social media, specifically X (formerly known as Twitter). We aim to understand how educational institutions may inadvertently compromise children&#39;s privacy by sharing sensitive information about students. We analyze a dataset of approximately 20.6 million tweets from U.S. educational institutions to gauge the extent of PII sharing and offer recommendations to improve privacy practices and protect students&#39; digital rights.</description>
+    </item>
+    
+    <item>
+      <title>Theory-based Computational Analysis of Classroom Audiovisual Data</title>
+      <link>makingdatasciencecount.github.io/audiovisual_data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>makingdatasciencecount.github.io/audiovisual_data/</guid>
+      <description>Project Introduction This project, Theory-based Computational Analysis of Classroom Audiovisual Data, or T(CA)^2 as we like to refer to it, is a three-year National Science Foundation-funded project focused on advancing methodologies that combine grounded theory based approaches with computational analyses of classroom video data. The interdisciplinary team is based at three institutions: the University of Illinois at Urbana-Champaign, Middle Tennessee University, and the University of Tennessee at Knoxville. You can check more info here.</description>
     </item>
     
   </channel>
