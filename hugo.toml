@@ -1,4 +1,4 @@
-baseURL = 'makingdatasciencecount.com'
+baseURL = 'http://makingdatasciencecount.com'
 languageCode = 'en-us'
 title = 'Making Data Science Count Research Group'
 theme = 'PaperMod'
