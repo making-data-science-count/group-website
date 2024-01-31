@@ -1,6 +1,6 @@
 ---
 title: "Lab Lunch and Headshot"
-date: 2023-011-21
+date: 2023-11-21
 Author: Hanhui
 draft: false
 ---
