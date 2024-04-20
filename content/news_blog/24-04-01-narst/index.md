@@ -1,5 +1,5 @@
 ---
-title: "UT Team at NARST Conference"
+title: "Lab Team at 2024 NARST Conference"
 date: 2024-04-01
 Author: Hanhui
 draft: false
